@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(images/imagenfondo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+
+}
+
+
+
+/* COMANDO */
+/* $ git config --global user.name "Brian Wasiutyn " */
+/* /* $ git config --global user.email "ponemos email" */
+/* $ git config --list // para ver si esta todo bien
+
+
+COMANDOS DE GIT PARA PASAR ALGO LOCAL A REMOTO (NUBE GITHUB)
+INICIAMOS CON EL:
+git init 
+
+SIGUIENTE PASO:
+git status 
+
+me muestra el estado de los elementos de la carpeta seleccionada
+
+
+SIGUIENTE PASO
+guardamos los cambios para que se vea reflejado en el status
+
+git add el nombre de la carpeta
+
+OOO SINOOOOOO
+
+
+git add .
+
+con el punto incluimos todo 
+
+
+SIGUIENTE PASO
+chequeamos se que haya guardado con el :
+git status 
+ 
+si todo salio bien deberia verse en verde
+
+
+
+
+----stating area----------------------
+
+SIGUIENTE PASO: CONFIRMAMOSSSSSSSS
+
+git commit -m "una breve descripcion entre comillas" 
+por ej: "modificado por brian" "boton agregado brian"
+
+
+SI DESPUES HACEMOS ALGUN CAMBIO EN NUESTRO CODIGO TENEMOS QUE VOLVER A SEGUIR LOS PASOS ANTERIORES PARA QUE SE GUARDEN LOS CAMBIOS.
+
+
+
+/* bien ahora vamos a github ;) 
+una vez cargado el repositorio en git hub, nos va dar otro comando para hacer remoto nuestro proyecto, buscamos en la seccion ...or push etc
+
+ese comando lo cargamos en el terminal
+git remote etc etc
+
+
+tambien en esa seccion nos sale otro comando
+
+branch : una rama o una linea o una copia de ese proyecto, inicialmente se crea una rama master/main
+
+lo ponemos
+git branch -M main (main o la copia que queramos guardar
+
+AHORA EL ULTIMO COMANDO PARA SUBIR A REMOTO github
+
+git push -u origin main
+min 01:33:18
+*/
+
+
+
+
+
+
+
